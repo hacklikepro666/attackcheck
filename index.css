@@ -44,3 +44,21 @@ main{
     justify-content: center;
     text-align: center;
 }
+
+@media (max-width:500px) {
+
+    .s1d1 p{
+        font-size: 20px;
+        text-align: left;
+        font-weight: 600;
+    }
+
+    .section-1{
+        padding: 10px;
+    }
+
+    #modern-btn{
+        font-size: 14px;
+    }
+    
+}
